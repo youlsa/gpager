@@ -1,0 +1,18 @@
+## CLI Command 문서를 참조 하시길 바랍니다. 
+
+LoRa 10초 주기 설정 방법 - unconfirmed message
+
+# unconfirmed 설정
+cfm 0
+
+# 주기 설정 (timer)
+txm 0
+
+# 시간 설정 (10초)
+dc 10
+
+# reset
+reset 또는 at+rst 
+
+
+

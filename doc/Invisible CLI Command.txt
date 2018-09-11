@@ -1,0 +1,11 @@
+// Device ID
+set+deveui			// GET
+set+deveui 100000000000ABC1	// SET
+
+// Real AppKey
+set+realkey				      // GET	
+set+realkey 8AFF8AF7A047BDC40278ABA863DD8E30  // SET
+
+// RDP ( Level 0 : 0xaa, Level 1 : 0x55)
+set+rdp			// GET
+set+rdp 0 ¶Ç´Â 1        // SET
